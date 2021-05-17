@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "redux-thnuk-hook",
-    "slug": "redux-thnuk-hook",
+    "name": "redux-thunk-hook",
+    "slug": "redux-thunk-hook",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
