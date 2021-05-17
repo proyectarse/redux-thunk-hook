@@ -10,7 +10,6 @@ if (__DEV__) {
 	composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 }
 
-// al store le paso el reducerpersistido, en lugar del reducer
 const store = createStore(
 	reducers,
 	{},
