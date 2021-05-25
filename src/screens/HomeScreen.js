@@ -11,7 +11,7 @@ const HomeScreen = (props) => {
 
 	return (
 		<View style={styles.container}>
-			<Text>Home</Text>
+			<Text>Inicio</Text>
 			<Button
 				title="Ir a Detalle"
 				onPress={() => props.navigation.navigate('Detail')}
